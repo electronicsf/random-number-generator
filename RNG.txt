@@ -1,0 +1,14 @@
+http://web.jfet.org/hw-rng.html
+http://world.std.com/~reinhold/truenoise.html
+http://www.maxim-ic.com/app-notes/index.mvp/id/3469
+http://csrc.nist.gov/groups/ST/toolkit/rng/index.html
+http://www.freeinfosociety.com/electronics/schemview.php?id=1362
+https://mywebspace.wisc.edu/lnmaurer/web/minirng/minirng.html
+http://circuit-bent.net/random-number-generator.html
+http://forums.ni.com/t5/Circuit-Design-Suite-Multisim/generator/td-p/605988
+http://members.shaw.ca/roma/thirty-four.html
+http://www.etoan.com/random-number-1976.html
+http://world.std.com/~reinhold/truenoise.html
+http://www.cryogenius.com/hardware/rng/
+http://www.edaboard.com/thread80968.html
+http://www.pulsonix.com/softwaredownloadrequest.asp
